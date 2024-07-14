@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeblee)](https://github.com/anuraghazra/github-readme-stats)
-출처: https://hulrud.tistory.com/3
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeblee&hide=contribs,prs&show_icons=true&theme=테마)
+
 <!---
 hyeblee/hyeblee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
